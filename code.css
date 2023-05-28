@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(61, 52, 52);
+    
+}
+
+h3{
+    color: white;
+    margin:0;
+    width: 100vw;
+    border:none;
+    padding: 0;
+    text-align: center;
+}
+
+textarea{
+ 
+    width: 100vw;
+    height: 30vh;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;   
+}
+
+#a{
+    color: red;
+    margin-right: 5px;
+}
+
+#b{
+    color: blue;
+    margin-right: 5px;
+
+}
+
+#c{
+    color: yellow;
+    background-color: black;
+    margin-right: 5px;
+}
+
+#d{
+    color:whitesmoke;
+    margin-right: 5px;
+}
+
+iframe{
+    width: 100vw;
+    height: 30vh;
+    margin-left: 20px;
+    margin-right: 20px;   
+    background-color: white;
+    color: black;
+
+}
